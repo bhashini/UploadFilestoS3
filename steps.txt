@@ -1,0 +1,9 @@
+[10:05 p.m., 2020-11-01] +1 (647) 889-8302: During this week, send me your topic and the features you plan to have in your system.
+[10:05 p.m., 2020-11-01] +1 (647) 889-8302: We can discuss the topics you want to include.
+[10:06 p.m., 2020-11-01] +1 (647) 889-8302: Next week we will design the database schema that will support your system.
+[10:07 p.m., 2020-11-01] +1 (647) 889-8302: The following week we will work on the prototype of the user interfaces of your project and the rest services that you need to implement.
+[10:07 p.m., 2020-11-01] +1 (647) 889-8302: After this is defined, you will start with the coding.
+[10:08 p.m., 2020-11-01] +1 (647) 889-8302: You need to upload your code on Github and deploy the project on Amazon. I will guide you through this.
+[10:09 p.m., 2020-11-01] +1 (647) 889-8302: That will be your first project for your portfolio.
+[10:10 p.m., 2020-11-01] +1 (647) 889-8302: Once you how the process is, you can add more projects until you have enough to impress the employers.
+[10:10 p.m., 2020-11-01] +1 (647) 889-8302: Not many developers have their projects portfolio, so this will put you ahead of them.

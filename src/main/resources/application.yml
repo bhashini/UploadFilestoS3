@@ -1,0 +1,4 @@
+amazonProperties:
+   accessKey: test 
+   secretKey: test
+   bucketName: filestorageproject
